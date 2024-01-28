@@ -29,15 +29,15 @@ body {
 				<input type="text" class="form-control" placeholder="Search">
 			</form>
 			<ul class="nav navbar-nav navbar-right">
-				<li class="active"><a href="StudentEnrollmentWithStruts">Home</a></li>
-				<li><a href="signup-input">Signup</a></li>
-				<li><a href="login-input">Login</a></li>
+				<li class="active"><a href="HAL-UI">HALUI Home</a></li>
+				<li><a href="signup-input">AccountList</a></li>
+				<li><a href="login-input">AddonList</a></li>
 				<li class="dropdown"><a href="#" class="dropdown-toggle"
 					data-toggle="dropdown">Explore<b class="caret"></b></a>
 					<ul class="dropdown-menu">
-						<li><a href="#">Contact us</a></li>
+						<li><a href="#">DomainList</a></li>
 						<li class="divider"></li>
-						<li><a href="#">Further Actions</a></li>
+						<li><a href="#">SiteList</a></li>
 					</ul></li>
 			</ul>
 		</div>
@@ -47,12 +47,11 @@ body {
 		<div class="jumbotron">
 			<div>
 				<h1>Welcome to Online Student Enrollment!</h1>
-				<p>To get started, you need to enter your details to enroll with
-					us. Or login to access your details, if you are already enrolled.</p>
+				<p>Let's get started...</p>
 			</div>
 
-			<a class="btn btn-primary" href="signup-input">Signup » </a> <a
-				class="btn btn-primary" href="login-input">Login » </a>
+			<a class="btn btn-primary" href="signup-input">Signup Â» </a> <a
+				class="btn btn-primary" href="login-input">Login Â» </a>
 		</div>
 
 		<div></div>
